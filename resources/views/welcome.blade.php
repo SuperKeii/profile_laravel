@@ -40,7 +40,7 @@
                                     <div class="mt-3">
                                         <h4>Satria Adit N</h4>
                                         <p class="text-secondary mb-1">Web Developer Pemula</p>
-                                        <p class="text-muted font-size-sm">Karanganyar,Jawa Tengah</p>
+                                        <p class="text-muted font-size-sm">Karanganyar, Jawa Tengah</p>
                                         <button class="btn btn-primary">Follow</button>
                                         <button class="btn btn-outline-primary">Message</button>
                                     </div>
