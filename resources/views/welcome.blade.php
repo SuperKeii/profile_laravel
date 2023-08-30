@@ -97,7 +97,7 @@
                                         <div class="progress mb-3" style="height: 5px">
                                             <div class="progress-bar bg-success" role="progressbar" style="width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
                                         </div>
-                                        <p>Bermain Sepeda</p>
+                                        <p>Bermain motor</p>
                                         <div class="progress mb-3" style="height: 5px">
                                             <div class="progress-bar bg-warning" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                                         </div>
